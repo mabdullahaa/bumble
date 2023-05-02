@@ -8,4 +8,6 @@ It only dislikes profiles; it does not like them. If it does not determine to di
 
 ## Demo
 
+Hopefully this is blurred enough.
+
 https://user-images.githubusercontent.com/67289464/235708217-d4909a2d-44df-490f-9945-c21598d534af.mov
